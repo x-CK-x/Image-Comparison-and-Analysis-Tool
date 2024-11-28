@@ -4,6 +4,8 @@
 
 The **Image Comparison and Analysis Tool** is a user-friendly application designed to provide a suite of image processing and analysis features through a graphical user interface (GUI) built with [Gradio](https://gradio.app). This tool allows users to perform various operations on images, such as comparing, blending, subtracting, and analyzing images for specific features like noise artifacts, text, signatures, and edges.
 
+![GUI](https://github.com/user-attachments/assets/b0ac196a-918b-4126-960b-910d7464c4ae)
+
 ---
 
 ## Table of Contents
